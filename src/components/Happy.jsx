@@ -1,6 +1,6 @@
 import React from "react";
 import "../App.css";
-import box from '../assets/images/box.png';
+import box from '../assets/Images/box.png';
 
 function Happy() {
   return (
