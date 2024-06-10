@@ -1,5 +1,5 @@
-import cakepng from "../assets/sweetberrypie.jpeg";
-import gift from "../assets/meaningfulgift.jpeg";
+import cakepng from "../assets/Images/sweetberrypie.jpeg";
+import gift from "../assets/Images/meaningfulgift.jpeg";
 
 function Body() {
   return (
