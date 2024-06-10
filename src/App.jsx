@@ -1,17 +1,19 @@
-import './App.css'
+import "./App.css";
 import React from "react";
-import Body from './components/Body'
-import Happy from './components/Happy'
-import Footer from './components/Footer'
+import Body from "./components/Body";
+import Happy from "./components/Happy";
+import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className='p-4 md:p-6 lg:p-10'>
-      <Happy />
+    <div className='min-h-screen flex flex-col'>
+      <div className='flex-grow'>
+        <Happy />
         <Body />
-     <Footer />
+        <Footer />
+      </div>
     </div>
-  )
+  );
 }
 
 export default App;
