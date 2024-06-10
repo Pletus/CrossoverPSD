@@ -1,10 +1,10 @@
-import cakepng from "../assets/images/sweetberrypie.jpeg";
-import gift from "../assets/images/meaningfulgift.jpeg";
+import cakepng from "../assets/Images/sweetberrypie.jpeg";
+import gift from "../assets/Images/meaningfulgift.jpeg";
 
 function Body() {
   return (
     <>
-      <div className="py-12">
+      <div>
         <p className='text-center text-2xl text-gray-800 font-semibold'>
           Enjoy the holidays with your family and friends <br />
           with these festive recipes and gift ideas!

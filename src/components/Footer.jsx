@@ -22,7 +22,7 @@ function Footer() {
           </a>
         </div>
         </div>
-        <div className='className="bg-white text-black text-center p-6'>
+        <div className='bg-white text-black text-center p-6'>
         <p className='mb-2 text-black'>Copyright 2024 YourSite. All right reserved.</p>
         <p className='mb-2 text-black'>
           You subscribed to our newsletter via our website, example.com
