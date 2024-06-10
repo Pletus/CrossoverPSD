@@ -1,5 +1,6 @@
-import { useState } from "react";
-import "./App.css";
+// import { useState } from "react";
+import Body from "../components/Body";
+import "./index.css";
 
 function App() {
   return (
