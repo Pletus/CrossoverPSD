@@ -1,0 +1,15 @@
+.background-image {
+  background-image: url("https://images.unsplash.com/photo-1513885535751-8b9238bd345a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.text-hero {
+  color: #c33050;
+}
+
+.border-radius {
+  border-radius: 25px;
+}
